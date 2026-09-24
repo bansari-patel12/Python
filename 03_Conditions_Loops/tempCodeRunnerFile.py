@@ -1,0 +1,1 @@
+print(f"Total sum of number is {sum}")
